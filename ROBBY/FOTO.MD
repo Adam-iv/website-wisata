@@ -1,1 +1,1 @@
-tempan menypan file foto project 
+tempat menypan file foto project 
