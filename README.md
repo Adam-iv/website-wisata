@@ -7,3 +7,5 @@
 5. Alisia Maulidina
 
 # berikut merupakan fitur-fitur dari website kami
+1. pertama-tama melakukan login terlebih dahulu
+   ![Tampilan UI](img/login.png)
