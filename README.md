@@ -9,3 +9,10 @@
 # berikut merupakan fitur-fitur dari website kami
 1. pertama-tama melakukan login terlebih dahulu
    ![Tampilan UI](img/login.png)
+
+   jika belum memiliki akun dapat melakukan registrasi terbelih dahulu
+      ![Tampilan UI](img/regis.png)
+2. ini merupakan halaman utama
+   
+      ![Tampilan UI](img/halamanutama.png)
+   
