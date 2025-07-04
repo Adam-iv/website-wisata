@@ -19,7 +19,7 @@
    ini merupakan beberapa isi dari beranda
    ![Tampilan UI](img/isi.png)
    
-4. ini halaman destinasi
+3. ini halaman destinasi
    
    ![Tampilan UI](img/destinasi.png)
 
@@ -40,5 +40,14 @@
 
    
    ![Tampilan UI](img/detail.png)
-   
+
+4. isi dari halmana tentang
+   ![Tampilan UI](img/tentang.png)
+
+   ini team kami
+   ![Tampilan UI](img/team-kami.png)
+
+
+
+
    
