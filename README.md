@@ -5,3 +5,5 @@
 3. Wahyu saputra
 4. Robby sugara
 5. Alisia Maulidina
+
+# berikut merupakan fitur-fitur dari website kami
