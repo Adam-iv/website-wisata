@@ -16,6 +16,29 @@
    
       ![Tampilan UI](img/utama.png)
 
-   ini merupakan isi dari beranda saya
+   ini merupakan beberapa isi dari beranda
+   ![Tampilan UI](img/isi.png)
+   
+4. ini halaman destinasi
+   
+   ![Tampilan UI](img/destinasi.png)
+
+   
+   dapat melakukan search
+
+   
+   ![Tampilan UI](img/serc.png)
+
+   
+   ini isi dari destinasi
+
+   
+   ![Tampilan UI](img/kumpulan.png)
+
+   
+   dapat melihat detail dan pada bagian ini dapat menambahh gambar
+
+   
+   ![Tampilan UI](img/detail.png)
    
    
