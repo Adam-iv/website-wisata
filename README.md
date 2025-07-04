@@ -48,6 +48,16 @@
    ![Tampilan UI](img/team-kami.png)
 
 
+5. kontak di gunakan untuk mendapatkan feedback dari user
+   ![Tampilan UI](img/kontak.png)
+
+   dapat menambah komentar
+   ![Tampilan UI](img/nambah.png)
+
+   dapat menghapus komentar
+   ![Tampilan UI](img/hapus.png)
+
+
 
 
    
