@@ -14,5 +14,8 @@
       ![Tampilan UI](img/regis.png)
 2. ini merupakan halaman utama
    
-      ![Tampilan UI](img/halamanutama.png)
+      ![Tampilan UI](img/utama.png)
+
+   ini merupakan isi dari beranda saya
+   
    
